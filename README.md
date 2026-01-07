@@ -8,3 +8,6 @@ EGR120 Final Project
 
 
 <img width="261" height="261" alt="image" src="https://github.com/user-attachments/assets/344d8cf3-37f4-4d37-81bb-270592046572" />
+
+
+[HUGHES_A23-1.pdf](https://github.com/user-attachments/files/24479342/HUGHES_A23-1.pdf)
